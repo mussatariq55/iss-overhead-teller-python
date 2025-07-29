@@ -1,7 +1,9 @@
 
 # 🛰️ ISS Overhead Teller in Python
-
 A real-time ISS tracker built in Python that alerts you via email when the International Space Station is flying over your location **at night**. This project demonstrates the use of APIs, secure email automation, and periodic background execution — a creative blend of space awareness and automation.
+
+<img width="1536" height="1024" alt="c3133634-7eba-4260-bbd7-b6b71f32af45" src="https://github.com/user-attachments/assets/d27e8056-9cfc-4ec6-8e4e-7213e898955e" />
+
 
 ---
 
